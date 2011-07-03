@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  from: MyString
+  to: MyString
+  distance: 1
+
+two:
+  from: MyString
+  to: MyString
+  distance: 1
